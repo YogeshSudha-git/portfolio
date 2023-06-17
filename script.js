@@ -63,7 +63,7 @@ document.querySelector(".fa-instagram").addEventListener("click", function () {
 //Hire Me
 
 document.getElementById("compose-btn").addEventListener("click", function () {
-  var email = "yogeshking2000@gmail.com";
+  var email = "yogeshsudhaofficial@gmail.com";
   var subject = "Regarding Job Application";
   var currentTime = new Date();
   var greeting =
@@ -122,7 +122,7 @@ function isMobileDevice() {
 //Download button
 
 document.getElementById("download-btn").addEventListener("click", function () {
-  window.open("docs/Yogeshwaran_Sudharsan _CV.pdf", "_blank");
+  window.open("docs/Yogeshwaran_Sudharsan_CV.pdf", "_blank");
 });
 
 //Lets chat
